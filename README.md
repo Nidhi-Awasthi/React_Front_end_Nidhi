@@ -5,10 +5,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Steps to run this application on local machine.
 
 1. Clone the repo from the url.
-2. Go to the project folder and install all the dependency by running "npm install"
-3. Start the API server by running the command in project folder using "node server.js".
+2. Go to the project folder and install all the dependencies by running "npm install".
+3. Start the API server by running the command in the project folder :  "node server.js".
    (NOTE: Initially I was facing some CORS issues while making API calls so to fix that I have to create a small node server which listen the API and send the response.)
-4. Start the application using "npm run start" command
+4. Open a sub terminal and Start the application using "npm run start"
 5. Open http://localhost:3000 in the browser to view the app.
 6. Also for the Redux dev tools you can add dev tools extensions and add to the chrome.
 
